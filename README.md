@@ -13,18 +13,21 @@
 ---
 
 ### 🧠 What I Do
-🧪 **UVM-based Functional Verification** (driver/monitor/scoreboard)  
-🎲 **Constrained-Random Stimulus** + **Self-checking Testbenches**  
-🛡️ **SystemVerilog Assertions (SVA)** for protocol & safety checks  
-📊 **Functional Coverage** with coverage closure mindset
+🧪 Architect **unit-level verification environments** in **SystemVerilog/UVM** (driver/monitor/scoreboard)  
+🎲 Build **constrained-random** tests with **functional coverage** + **assertion-based verification (SVA)**  
+🔎 Debug regressions using waveform + logs; focus on **root-cause isolation** and coverage closure  
+⚙️ Script verification flows (Python/Tcl) and work across **digital systems + computer architecture** blocks  
+📌 Currently exploring verification for **high-speed interconnects / memory-subsystem blocks**
 
 ---
 
 ### 🧰 Skills
-**Languages:** SystemVerilog • Verilog • UVM • Tcl  
-**Tools:** Cadence Virtuoso • Cadence Genus & Innovus • Synopsys VCS • Design Compiler (DC) • Icarus Verilog • OpenLane • Xilinx Vivado  
-**Verification & Protocols:** Constrained-random verification • Functional coverage • SVA • AMBA (APB, AXI4) • SPI • I2C  
-**Other:** RTL-to-GDSII • STA • CPU architecture
+**HDLs / Verification:** SystemVerilog • Verilog • UVM • SVA • Constrained-random verification • Functional coverage  
+**Protocols:** AMBA APB • AXI4 (exposure) • SPI • I2C • CDC (Async FIFO)  
+**Tools:** Synopsys VCS • Design Compiler (DC) • Cadence Genus & Innovus • Cadence Virtuoso • Icarus Verilog • OpenLane • Xilinx Vivado  
+**Scripting:** Tcl  
+**Core:** RTL-to-GDSII • STA • CPU architecture / digital systems
+
 
 ---
 
