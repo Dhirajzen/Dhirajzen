@@ -28,35 +28,11 @@
 
 ---
 
-### 🧪 Highlighted Verification Projects
-🔹 **UVM Verification of APB RAM**  
-• UVM testbench + constrained-random stimulus + SVA; achieved **100% functional coverage**  
-• Implemented error handling via **PSLVERR** detection
-
-🔹 **UVM Verification of I2C Bus Controller**  
-• Reusable UVM env (driver/monitor/scoreboard) with **golden memory model**  
-• Constrained-random read/write tests + protocol checks (**START, address, ACK/NACK, STOP**)  
-• Achieved **100% functional coverage**
-
-🔹 **Functional Coverage of SPI using UVM**  
-• UVM verification env with constrained-random stimulus + assertions  
-• Functional coverage for **data transmission** and **clock phase scenarios**  
-• Achieved **90% functional coverage**
-
-🔹 **Asynchronous FIFO (CDC)**  
-• CDC-safe async FIFO using **Gray-code pointers** + **double-flop synchronizers**  
-• Verified robustness under **varying clock frequencies**, **clock skew**, and **async resets**
-
----
-
-### 🏗️ System / Architecture Work
-🔹 **RISC-V SoC Design Flow with Debug Modules**  
-• Built RISC-V SoC with MMIO telemetry + instruction trace/debug infra; validated via full-system RTL simulation  
-• Drove design through automated RTL-to-GDSII flow; achieved **300 MHz MMMC timing closure** (TSMC 16 nm PDK)
-
-🔹 **Five-Stage MIPS32 Pipelined Processor**  
-• IF/ID/EX/MEM/WB pipeline with hazard detection, forwarding, and branch prediction  
-• Verified correct execution and resolved stalls/data hazards
+### 🧪 Highlighted Work
+🔹 **[APB RAM — UVM Verification](https://github.com/Dhirajzen/APB-RAM)**: Constrained-random + SVA, **100% functional coverage**, PSLVERR checks  
+🔹 **[I2C Controller — UVM Verification](https://github.com/Dhirajzen/Verification-of-I2C-Bus-Controller)**: Reusable env + golden-memory scoreboard, START/STOP/ACK checks, **100% coverage**  
+🔹 **[SPI — UVM Coverage](https://github.com/Dhirajzen/Verification-of-SPI-protocol)**: Assertions + clock-phase scenarios, **90% functional coverage**  
+🔹 **[Async FIFO (CDC)](https://github.com/Dhirajzen/Asynchronous-FIFO)**: Gray pointers + 2FF synchronizers, stress-tested across freq mismatch, skew & async resets
 
 ---
 
