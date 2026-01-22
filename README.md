@@ -7,8 +7,7 @@
 
 <p align="center">
   Brooklyn, NY • <a href="mailto:db5309@nyu.edu">db5309@nyu.edu</a> •
-  <a href="https://www.linkedin.com/in/dhirajzen30/">LinkedIn</a> •
-  <a href="https://github.com/Dhirajzen">GitHub</a>
+  <a href="https://www.linkedin.com/in/dhirajzen30/">LinkedIn</a> 
 </p>
 
 ---
