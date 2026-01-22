@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhirajzen </h1>
-<h3 align="center">Aspiring Design Verification Engineer • UVM • SVA • Constrained-Random • Functional Coverage</h3>
+<h3 align="center">Aspiring Design Verification Engineer • UVM • SVA • Functional Coverage</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=20&center=true&vCenter=true&width=900&lines=MS+Computer+Engineering+%40+NYU+Tandon;Graduating+May+2026;UVM-based+Verification+%7C+SVA+%7C+Functional+Coverage;APB+%7C+I2C+%7C+SPI+%7C+CDC+Async+FIFO" />
