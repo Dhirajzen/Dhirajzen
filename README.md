@@ -29,9 +29,9 @@
 ---
 
 ### 🧪 Highlighted Work
-🔹 **[APB RAM — UVM Verification](https://github.com/Dhirajzen/APB-RAM)**: Constrained-random + SVA, **100% functional coverage**, PSLVERR checks  
-🔹 **[I2C Controller — UVM Verification](https://github.com/Dhirajzen/Verification-of-I2C-Bus-Controller)**: Reusable env + golden-memory scoreboard, START/STOP/ACK checks, **100% coverage**  
-🔹 **[SPI — UVM Coverage](https://github.com/Dhirajzen/Verification-of-SPI-protocol)**: Assertions + clock-phase scenarios, **90% functional coverage**  
+🔹 **[APB RAM - UVM Verification](https://github.com/Dhirajzen/APB-RAM)**: Constrained-random + SVA, **100% functional coverage**, PSLVERR checks  
+🔹 **[I2C Controller - UVM Verification](https://github.com/Dhirajzen/Verification-of-I2C-Bus-Controller)**: Reusable env + golden-memory scoreboard, START/STOP/ACK checks, **100% coverage**  
+🔹 **[SPI - UVM Verification](https://github.com/Dhirajzen/Verification-of-SPI-protocol)**: Assertions + clock-phase scenarios, **90% functional coverage**  
 🔹 **[Async FIFO (CDC)](https://github.com/Dhirajzen/Asynchronous-FIFO)**: Gray pointers + 2FF synchronizers, stress-tested across freq mismatch, skew & async resets
 
 ---
