@@ -43,6 +43,6 @@
 ---
 
 ### 📫 Let’s Connect
-📧 Email: [your-email@nyu.edu]  
-💼 LinkedIn: https://www.linkedin.com/in/your-link-here
+📧 Email: [db5309@nyu.edu]  
+💼 LinkedIn: https://www.linkedin.com/in/dhirajzen30/
 
