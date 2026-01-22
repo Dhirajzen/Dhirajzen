@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhirajzen Bagawath Geetha Kumaravel</h1>
+<h1 align="center">Hi 👋, I'm Dhirajzen </h1>
 <h3 align="center">Aspiring Design Verification Engineer • UVM • SVA • Constrained-Random • Functional Coverage</h3>
 
 <p align="center">
