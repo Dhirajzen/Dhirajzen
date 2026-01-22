@@ -67,9 +67,5 @@
 • Built golden/buggy SystemVerilog RTL + self-checking testbenches + automated Autograder  
 • Developed Cadence Liberate tutorial for library characterization and timing model generation
 
----
 
-### 📌 What to Pin on My Profile
-Pin your **best verification repos** (APB / I2C / SPI / Async FIFO), and make each repo README include:
-✅ test plan • ✅ coverage summary • ✅ assertions list • ✅ “how to run” commands
 
