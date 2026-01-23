@@ -23,7 +23,7 @@
 
 ### 🧰 Skills
 **HDLs / Verification:** SystemVerilog • Verilog • UVM • SVA • Constrained-random verification • Functional coverage  
-**Protocols:** AMBA APB • AXI4 (exposure) • SPI • I2C • CDC (Async FIFO)  
+**Protocols/Concepts:** AMBA APB • AXI4 (exposure) • SPI • I2C • CDC (Async FIFO)  
 **Tools:** Synopsys VCS • Design Compiler (DC) • Cadence Genus & Innovus • Cadence Virtuoso • Icarus Verilog • OpenLane • Xilinx Vivado  
 **Scripting:** Tcl  
 **Core:** RTL-to-GDSII • STA • CPU architecture / digital systems
