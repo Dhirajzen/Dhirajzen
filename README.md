@@ -37,13 +37,7 @@
 🔹 **[I2C - UVM Verification](https://github.com/Dhirajzen/I2C_UVM_Verification)**: Reusable env + golden-memory scoreboard, START/STOP/ACK checks, **100% coverage**  
 🔹 **[Async FIFO (CDC)](https://github.com/Dhirajzen/Asynchronous-FIFO)**: Gray pointers + 2FF synchronizers, stress-tested across freq mismatch, skew & async resets
 
----
 
-### 💼 Experience
-**Course Assistant — ECE-GY 6443: VLSI System and Architecture (June 2025–Present)**  
-• Authored lab manuals & assignments (CMOS inverter schematic/layout, LFSR, SPI)  
-• Built golden/buggy SystemVerilog RTL + self-checking testbenches + automated Autograder  
-• Developed Cadence Liberate tutorial for library characterization and timing model generation
 
 
 
