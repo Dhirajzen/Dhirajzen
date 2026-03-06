@@ -33,7 +33,7 @@
 
 ### 🧪 Highlighted Work
 🔹 **[APB - UVM Verification](https://github.com/Dhirajzen/Design-Verification-Projects/tree/main/APB_UVM_Verification)**: Constrained-random + SVA, **100% functional coverage**, PSLVERR checks  
-🔹 **[SPI - UVM Verification](https://github.com/Dhirajzen/Design-Verification-Projects/tree/main/SPI_UVM_Verification)**: Assertions + clock-phase scenarios, **90% functional coverage**  
+🔹 **[SPI - UVM Verification](https://github.com/Dhirajzen/Design-Verification-Projects/tree/main/SPI_UVM_Verification)**: Assertions + clock-phase scenarios, **100% functional coverage**  
 🔹 **[I2C - UVM Verification](https://github.com/Dhirajzen/I2C_UVM_Verification)**: Reusable env + golden-memory scoreboard, START/STOP/ACK checks, **100% coverage**  
 🔹 **[Async FIFO (CDC)](https://github.com/Dhirajzen/Asynchronous-FIFO)**: Gray pointers + 2FF synchronizers, stress-tested across freq mismatch, skew & async resets
 
