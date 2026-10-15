@@ -47,7 +47,7 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://www.youtube.com/watch?v=aiX9myUAh60"><img src="https://i.ytimg.com/vi/aiX9myUAh60/mqdefault.jpg" alt="FIFO Depth Calculation: 8 Interview Traps (and How to Beat Them)" /></a><br />
+      <a href="https://www.youtube.com/watch?v=ET1wU6dEvhg"><img src="https://i.ytimg.com/vi/ET1wU6dEvhg/mqdefault.jpg" alt="FIFO Depth Calculation: 8 Interview Traps (and How to Beat Them)" /></a><br />
       <b>FIFO Depth Calculation: 8 Interview Traps (and How to Beat Them)</b>
     </td>
     <td width="33%" valign="top">
@@ -55,7 +55,7 @@
       <b>Async FIFO Explained: Gray Code, Synchronizers and the Full-Flag Twist</b>
     </td>
     <td width="33%" valign="top">
-      <a href="https://www.youtube.com/watch?v=ET1wU6dEvhg"><img src="https://i.ytimg.com/vi/ET1wU6dEvhg/mqdefault.jpg" alt="The Error Nobody Notices: How Chips Survive a Bit Flip" /></a><br />
+      <a href="https://www.youtube.com/watch?v=aiX9myUAh60"><img src="https://i.ytimg.com/vi/aiX9myUAh60/mqdefault.jpg" alt="The Error Nobody Notices: How Chips Survive a Bit Flip" /></a><br />
       <b>The Error Nobody Notices: How Chips Survive a Bit Flip</b>
     </td>
   </tr>
