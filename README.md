@@ -55,8 +55,8 @@
       <b>Async FIFO Explained: Gray Code, Synchronizers and the Full-Flag Twist</b>
     </td>
     <td width="33%" valign="top">
-      <a href="https://www.youtube.com/watch?v=aiX9myUAh60"><img src="https://i.ytimg.com/vi/aiX9myUAh60/mqdefault.jpg" alt="The Error Nobody Notices: How Chips Survive a Bit Flip" /></a><br />
-      <b>The Error Nobody Notices: How Chips Survive a Bit Flip</b>
+      <a href="https://www.youtube.com/watch?v=aiX9myUAh60"><img src="https://i.ytimg.com/vi/aiX9myUAh60/mqdefault.jpg" alt="How a Single Bit Changed an Election Count: Error Correcting Code (ECC) Explained" /></a><br />
+      <b>How a Single Bit Changed an Election Count: Error Correcting Code (ECC) Explained</b>
     </td>
   </tr>
 </table>
