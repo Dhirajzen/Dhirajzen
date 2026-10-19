@@ -46,15 +46,21 @@
 ### 🎥 On YouTube
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <a href="https://www.youtube.com/watch?v=6V32yWLrHxM"><img src="https://i.ytimg.com/vi/6V32yWLrHxM/mqdefault.jpg" alt="Why Random Tests Missed Intel’s $475M Bug (Coverage &amp; Formal Proofs)" /></a><br />
+      <b>Why Random Tests Missed Intel’s $475M Bug (Coverage &amp; Formal Proofs)</b>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://www.youtube.com/watch?v=ET1wU6dEvhg"><img src="https://i.ytimg.com/vi/ET1wU6dEvhg/mqdefault.jpg" alt="FIFO Depth Calculation: 8 Interview Traps (and How to Beat Them)" /></a><br />
       <b>FIFO Depth Calculation: 8 Interview Traps (and How to Beat Them)</b>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://www.youtube.com/watch?v=NLQoDZw3vug"><img src="https://i.ytimg.com/vi/NLQoDZw3vug/mqdefault.jpg" alt="Async FIFO Explained: Gray Code, Synchronizers and the Full-Flag Twist" /></a><br />
       <b>Async FIFO Explained: Gray Code, Synchronizers and the Full-Flag Twist</b>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://www.youtube.com/watch?v=aiX9myUAh60"><img src="https://i.ytimg.com/vi/aiX9myUAh60/mqdefault.jpg" alt="How a Single Bit Changed an Election Count: Error Correcting Code (ECC) Explained" /></a><br />
       <b>How a Single Bit Changed an Election Count: Error Correcting Code (ECC) Explained</b>
     </td>
