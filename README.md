@@ -47,6 +47,16 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://www.youtube.com/watch?v=_Waa6wcDq2c"><img src="https://i.ytimg.com/vi/_Waa6wcDq2c/mqdefault.jpg" alt="SystemVerilog Scheduling Regions, Visualized: The Stratified Event Queue" /></a><br />
+      <b>SystemVerilog Scheduling Regions, Visualized: The Stratified Event Queue</b>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.youtube.com/watch?v=QjKKdYU0iMw"><img src="https://i.ytimg.com/vi/QjKKdYU0iMw/mqdefault.jpg" alt="How Chip Teams Decide Verification Is Finished: Sign-Off Criteria" /></a><br />
+      <b>How Chip Teams Decide Verification Is Finished: Sign-Off Criteria</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://www.youtube.com/watch?v=6V32yWLrHxM"><img src="https://i.ytimg.com/vi/6V32yWLrHxM/mqdefault.jpg" alt="Why Random Tests Missed Intel’s $475M Bug (Coverage &amp; Formal Proofs)" /></a><br />
       <b>Why Random Tests Missed Intel’s $475M Bug (Coverage &amp; Formal Proofs)</b>
     </td>
