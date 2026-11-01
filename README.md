@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Brooklyn, NY • <a href="mailto:db5309@nyu.edu">db5309@nyu.edu</a> •
+  Reading, PA • <a href="mailto:db5309@nyu.edu">db5309@nyu.edu</a> •
   <a href="https://dhirajzen.github.io/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/dhirajzen30/">LinkedIn</a> •
   <a href="https://www.youtube.com/@dhirajzen30">YouTube</a>
